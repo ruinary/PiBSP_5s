@@ -1,0 +1,19 @@
+﻿Сборка начата 04.10.2022 9:59:34.
+Уровень детализации журнала: Normal.     1>Проект "D:\study\3 курс\ПиБСП\lab2\ClientT\ClientT\ClientT.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\ClientT.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         ClientT.vcxproj -> D:\study\3 курс\ПиБСП\lab2\ClientT\Debug\ClientT.exe
+       FinalizeBuildStatus:
+         Файл "Debug\ClientT.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\ClientT.tlog\ClientT.lastbuildstate".
+     1>Сборка проекта "D:\study\3 курс\ПиБСП\lab2\ClientT\ClientT\ClientT.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.06
